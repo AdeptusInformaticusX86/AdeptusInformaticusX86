@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm quentin</h1>
+<h1 align="center">Hi 👋, I'm Celte </h1>
 <h3 align="center">Passionate developer. Exploring indstustrial dev ,web dev, AI & open-source. Always coding, learning, & enjoying great coffee!</h3>
 
 - 🌱 I’m currently learning **.net ,maui**
